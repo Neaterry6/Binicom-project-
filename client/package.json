@@ -13,6 +13,9 @@
   },
   "devDependencies": {
     "vite": "^2.6.4",
-    "@vitejs/plugin-react": "^1.0.0"
+    "@vitejs/plugin-react": "^1.0.0",
+    "@replit/vite-plugin-shadcn-theme-json": "^1.0.0",
+    "@replit/vite-plugin-runtime-error-modal": "^1.0.0",
+    "@replit/vite-plugin-cartographer": "^1.0.0"
   }
 }
